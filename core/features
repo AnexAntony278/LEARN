@@ -4,5 +4,6 @@ core feature 2
 core feture 3
 core feature 4
 
+#include <extra/features>
 core features5
 core feature 6
